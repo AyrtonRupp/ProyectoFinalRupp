@@ -12,7 +12,7 @@
     {
         "id": "Nintendo Switch Lite",
         "titulo": "Nintendo Switch Lite",
-        "imagen": "../img/imagenes_nintendo/nintendo1.jpg",
+        "imagen": "./img/imagenes_nintendo/nintendo1.jpg",
         "categoria": {
             "nombre": "Nintendo",
             "id": "nintendo"
@@ -22,7 +22,7 @@
     {
         "id": "Pokemon Arceus",
         "titulo": "Pokemon Arceus",
-        "imagen": "../img/imagenes_nintendo/arceus.jpg",
+        "imagen": "./img/imagenes_nintendo/arceus.jpg",
         "categoria": {
             "nombre": "Nintendo",
             "id": "nintendo"
@@ -32,7 +32,7 @@
     {
         "id": "Mario Kart",
         "titulo": "Mario Kart",
-        "imagen": "../img/imagenes_nintendo/mario-kart.png",
+        "imagen": "./img/imagenes_nintendo/mario-kart.png",
         "categoria": {
            " nombre": "Nintendo",
             "id": "nintendo"
@@ -42,7 +42,7 @@
     {
         "id": "Playstation 5",
         "titulo": "Playstation 5",
-        "imagen": "../img/imagenes_playstation/ps5.jpg",
+        "imagen": "./img/imagenes_playstation/ps5.jpg",
         "categoria": {
             "nombre": "Playstation",
             "id": "playstation"
@@ -52,7 +52,7 @@
     {
         "id": "Uncharted",
        " titulo": "Uncharted",
-        "imagen": "../img/imagenes_playstation/uncharted.jpg",
+        "imagen": "./img/imagenes_playstation/uncharted.jpg",
         "categoria": {
             "nombre": "Playstation",
             "id": "playstation"
@@ -62,7 +62,7 @@
     {
         "id": "God of War:Ragnarok",
         "titulo": "God of War:Ragnarok",
-        "imagen": "../img/imagenes_playstation/god.jpg",
+        "imagen": "./img/imagenes_playstation/god.jpg",
         "categoria": {
             "nombre": "Playstation",
             "id": "playstation"
@@ -72,7 +72,7 @@
     {
         "id": "Horizon:Zero",
         "titulo": "Horizon:Zero",
-        "imagen": "../img/imagenes_playstation/horizon.jpg",
+        "imagen": "./img/imagenes_playstation/horizon.jpg",
         "categoria": {
             "nombre": "Playstation",
             "id": "playstation"
@@ -82,7 +82,7 @@
     {
         "id": "Xbox:One",
         "titulo": "Xbox:One",
-       "imagen": "../img/imagenes_xbox/xbox.png",
+       "imagen": "./img/imagenes_xbox/xbox.png",
         "categoria": {
             "nombre": "Xbox",
             "id": "xbox"
@@ -92,7 +92,7 @@
     {
         "id": "Cuphead",
         "titulo": "Cuphead",
-        "imagen": "../img/imagenes_xbox/cup.jpg",
+        "imagen": "./img/imagenes_xbox/cup.jpg",
        " categoria": {
             "nombre": "Xbox",
             "id": "xbox"
