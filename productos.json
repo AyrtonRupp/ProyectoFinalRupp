@@ -2,7 +2,7 @@
     [{
         "id": "Nintendo Swicht",
         "titulo": "Nintendo Swicht",
-        "imagen": "../img/imagenes_nintendo/nintendosw.jpg",
+        "imagen": "./img/imagenes_nintendo/nintendosw.jpg",
         "categoria": {
             "nombre": "Nintendo",
             "id": "nintendo"
