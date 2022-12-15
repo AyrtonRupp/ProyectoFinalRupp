@@ -102,7 +102,7 @@
     {
         "id": "Contra:remastered",
         "titulo": "Contra:remastered",
-        "imagen": "../img/imagenes_xbox/contra.jpg",
+        "imagen": "./img/imagenes_xbox/contra.jpg",
         "categoria": {
             "nombre": "Xbox",
             "id": "xbox"
@@ -112,7 +112,7 @@
     {
        " id": "The Witcher 3",
         "titulo": "The Witcher 3",
-        "imagen": "../img/imagenes_xbox/witcher.jpg",
+        "imagen": "./img/imagenes_xbox/witcher.jpg",
         "categoria": {
             "nombre": "Xbox",
             "id": "xbox"
